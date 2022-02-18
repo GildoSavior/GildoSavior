@@ -1,4 +1,4 @@
- ### Olá  meu nome é Gildo Salvador 👋
+ ## Olá  meu nome é Gildo Salvador 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/gildosalvador/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SalvadorGildo)
@@ -10,7 +10,7 @@
 
 
 
-### Tecnológias que uso no meu dia á dia
+## Tecnológias que uso no meu dia á dia
 
 <div style="display: inline_block"><br>
 <img align="center"alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -26,7 +26,7 @@
 
 <br>
 
-### Outras tecnológias que uso
+## Outras tecnológias que uso
 
 <div style="display: inline_block"><br>
 <img align="center"alt="react native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -36,6 +36,8 @@ adge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </div>
 
 <br>
+
+![snake gif](https://github.com/GildoSavior/GildoSavior/blob/output/github-contribution-grid-snake.gif)
 
 ## About me
 
