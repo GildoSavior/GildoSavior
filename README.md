@@ -6,7 +6,6 @@
 
 
 ![Gildo GitHub stats](https://github-readme-stats.vercel.app/api?username=GildoSavior&show_icons=true&theme=dracula)
-
 ![Gildo GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GildoSavior&theme=blue-green)
 
 
