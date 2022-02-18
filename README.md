@@ -32,7 +32,7 @@
 <img align="center"alt="react native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img align="center"alt="flutter" src="https://img.shields.io/b
 adge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img align="center"alt="postgresql" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img align="center"alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 
 <br>
