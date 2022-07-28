@@ -35,9 +35,9 @@
 <img align="center"alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 
-<br>
+<!-- <br> -->
 
-![snake gif](https://github.com/GildoSavior/GildoSavior/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/GildoSavior/GildoSavior/blob/output/github-contribution-grid-snake.gif) -->
 
 ## About me
 
