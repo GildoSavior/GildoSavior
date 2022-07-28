@@ -41,7 +41,6 @@
 
 ## About me
 
-
 Passionate about technology, entrepreneurship, and literature, young dreamer who believes he will change his and many people's lives with programming.
 I Luv Programming.💖
 
